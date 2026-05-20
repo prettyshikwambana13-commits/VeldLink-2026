@@ -2,3 +2,4 @@ This branch was created to isolate and repair the Smart Sync recovery failure af
 
 The branch allows developers to test and validate sync recovery fixes without affecting the stable production version of the VeldLink system.
 Fixed sync interruption handling during unstable network recovery
+Added local checkpoint saving during unexpected power failure
